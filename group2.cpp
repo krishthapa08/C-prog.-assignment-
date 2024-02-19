@@ -118,7 +118,7 @@
     		    scanf("%d",&unit);
     		        if (unit<=20){
     			        price =80;
-			            } else if (unit>20 and unit <=100){
+			            } else if (unit>20 && unit <=100){
 			                price=(80)+(unit-20)*8;
 		                    } else if (unit>100){
 		                        price=(80)+(80*8)+(unit-100)*10;
